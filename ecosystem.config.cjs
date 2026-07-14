@@ -1,10 +1,10 @@
 module.exports = {
   apps: [
     {
-      name: "dofusin-page",
+      name: "dofusin-nextjs",
       script: "npm",
       args: "start",
-      cwd: "/home/ubuntu/prod/dofusin-page",
+      cwd: "/home/ubuntu/prod/dofusin-nextjs",
       instances: 1,
       exec_mode: "fork",
       max_restarts: 10,
